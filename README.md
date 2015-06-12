@@ -1,6 +1,8 @@
-== Context IO Backend
+# Context.IO Backend
 
-Note: added helpers/contextio.js to gitignore because it contains my keys.
+##### Notes
+
+Added helpers/contextio.js to gitignore because it contains my keys.
 
 `helpers/contextio.js`:
 ```javascript
